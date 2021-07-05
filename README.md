@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farrrrland
-- 👀 I’m interested in 摸鱼
-- 🌱 I’m currently learning Java & Vue.js
+- 👀 I’m interested in PES 2021
+- 🌱 I’m currently learning Docker & FuncX
 - 📫 How to reach me SteveZhao@outlook.com
 
 <!---
