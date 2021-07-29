@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farrrrland
 - 👀 I’m interested in PES 2021
-- 🌱 I’m currently learning Docker & FuncX
+- 🌱 I’m currently learning Docker & FuncX & ODPS & Hbase
 - 📫 How to reach me SteveZhao@outlook.com
 
 <!---
