@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farrrrland
-- 👀 I’m interested in PES 2021
-- 🌱 I’m currently learning Docker & FuncX & ODPS & Hbase
+- 👀 I’m interested in PES 2021 and Genshin Impact
+- 🌱 I’m currently learning Docker & FuncX & Distributed System
 - 📫 How to reach me SteveZhao@outlook.com
 
 <!---
