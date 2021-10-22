@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farrrrland
-- 👀 I’m interested in PES 2021 and Genshin Impact
+- 👀 I’m interested in FIFA 22 and Genshin Impact (No one likes eFootball2022 😡!)
 - 🌱 I’m currently learning Docker & FuncX & Distributed System
 - 📫 How to reach me SteveZhao@outlook.com
 
