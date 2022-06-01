@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farrrrland
 - 👀 I’m interested in FIFA 22 and Forza Horizon
-- 🌱 I’m currently learning Docker & FuncX & Distributed System
+- 🌱 I’m currently learning AI/ML & Function-as-a-Service
 - 📫 How to reach me SteveZhao@outlook.com
 
 <!---
