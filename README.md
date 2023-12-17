@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farrrrland
-- 👀 I’m interested in FIFA 23
-- 🌱 I’m currently learning Causality & Function-as-a-Service
+- 👀 I’m interested in Sleeping
+- 🌱 I’m currently learning Reinforcement Learning & Function-as-a-Service
 - 📫 How to reach me SteveZhao@outlook.com
 
 <!---
